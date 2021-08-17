@@ -1,0 +1,5 @@
+application set up arac express
+1. endpoint  readfile anunov petqa karda textavoy file u kara lini mec cavali mot 100gb stream 
+2. endpoint  writefile kapi readfili meji file iran kveraci configi u et save kanenq .json  fili mej
+3. endpoint  groupi gaxapar@ bayc posteri debqum CRUD 
+4. wrap enq anum dockerov 
